@@ -3,7 +3,7 @@
 
 # Quantum Realm ⚛️  
 
-![Quantum Computing](https://cdn.pixabay.com/photo/2024/11/24/19/06/physics-9221574_1280.jpg)  
+![Quantum Computing](https://cdn.pixabay.com/photo/2021/08/30/11/08/physics-6585578_1280.jpg)  
 
 ## 📝 Introduction  
 
